@@ -1,6 +1,6 @@
 # _data/navigation.yml
 items:
-  - name: Home
+  - name: Feed
     link: /
   - name: About
     link: /about.html
