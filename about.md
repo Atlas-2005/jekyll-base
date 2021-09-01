@@ -9,6 +9,7 @@ This page tells you a little bit about me.
 
 <h1>Staff</h1>
 
+# Code Below is for staff list
 <ul>
   {% for author in site.authors %}
   <li>
